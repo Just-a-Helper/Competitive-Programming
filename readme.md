@@ -10,6 +10,7 @@
     * [List of all available resources](https://github.com/lnishan/awesome-competitive-programming)
     * [CP Algorithms](http://cp-algorithms.com/)
     * [Video Lessons](https://mega.nz/folder/Ryw0ACrT#bM6tikNRN9VyipFG8r8Sbg)
+    * [Topics and Resources (Given by Seniors)](https://docs.google.com/document/d/1t9buBLYV7lCP4r5ETImVGKEYwl96pgLIosgi0Gt4EX0/edit)
 
 * Questions
    * [List of Questions (Contest Lockout Bot)](https://docs.google.com/spreadsheets/d/1FycBoaJ2zqaR0ZGzPdlhBR3CRsWNIB6oUklRX9OW4Ug/edit?usp=sharing)
